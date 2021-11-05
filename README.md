@@ -1,2 +1,0 @@
-# Slides
-Slides and Notes.
